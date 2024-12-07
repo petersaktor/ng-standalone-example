@@ -7,7 +7,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - Standalone components
 - Angular routing with lazy loading
-- ntegration with Angular Material
+- Integration with Angular Material
 - State management with NgRx
 
 ## Development server
