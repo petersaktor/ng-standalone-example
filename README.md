@@ -1,6 +1,14 @@
-# SandBox
+# Standalone Example
+This project demonstrates the use of standalone components in Angular. Standalone components simplify the Angular application structure by eliminating the need for NgModules, making the codebase more modular and easier to maintain.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+
+# Features
+
+- Standalone components
+- Angular routing with lazy loading
+- ntegration with Angular Material
+- State management with NgRx
 
 ## Development server
 
